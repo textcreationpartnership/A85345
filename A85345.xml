@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions for young gentlemen: or, The instructions of Cardinal Sermonetto to his cousin Petro Caetano, at his first going into Flanders to the Duke of Parma, to serve Philip King of Spain.</title>
+            <author>Gaetani, Enrico, Cardinal, 1550-1599.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85345</idno>
+            <idno type="STC">Wing G104A</idno>
+            <idno type="STC">ESTC R177464</idno>
+            <idno type="EEBO-CITATION">45504468</idno>
+            <idno type="OCLC">ocm 45504468</idno>
+            <idno type="VID">171782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2590:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions for young gentlemen: or, The instructions of Cardinal Sermonetto to his cousin Petro Caetano, at his first going into Flanders to the Duke of Parma, to serve Philip King of Spain.</title>
+                  <author>Gaetani, Enrico, Cardinal, 1550-1599.</author>
+               </titleStmt>
+               <extent>[8], 122, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Fr. Bowman of Oxon.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Diplomatic etiquette --  Early works to 1800.</term>
+               <term>Diplomacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171782:1"/>
+            <p>INSTRUCTIONS For Young Gentlemen: OR, The Inſtructions of Cardinal SERMONETTO To his Couſin PETRO CAETANO, At his firſt going into <hi>Flanders</hi> to the Duke of PARMA, to ſerve PHILIP King of <hi>Spain.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. N.</hi> for <hi>Fr. Bowman</hi> of <hi>Oxon.</hi> 1650.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:171782:2"/>
+            <pb facs="tcp:171782:2"/>
+            <head>The Printer to the Reader.</head>
+            <p>GOod Reader, I haue Printed this little volume vpon the advice and per<g ref="char:EOLhyphen"/>ſwaſion of ſome of e<g ref="char:EOLhyphen"/>minent worth, and
+<pb facs="tcp:171782:3"/>much experience. As well to ſpare the la<g ref="char:EOLhyphen"/>bour and trouble of writing out Copies, as alſo to prevent al<g ref="char:EOLhyphen"/>terations and errours which are vſually con<g ref="char:EOLhyphen"/>tracted, and multi<g ref="char:EOLhyphen"/>plied by often tranſ<g ref="char:EOLhyphen"/>cribing; as water wee ſee the farther it
+<pb facs="tcp:171782:3"/>runns, and the more remote from the foun<g ref="char:EOLunhyphen"/>taine, the more im<g ref="char:EOLhyphen"/>pure. Yet I dare not affirme, it is now pre<g ref="char:EOLhyphen"/>ſented to the world without all blemiſh or imperfection: for I am told it is ſome<g ref="char:EOLhyphen"/>where a little ſuſpe<g ref="char:EOLhyphen"/>cted, not to be ſo fully
+<pb facs="tcp:171782:4"/>and exactly rendred; which if it ſhall ap<g ref="char:EOLhyphen"/>peare, I confidently promiſe all defects and deformities, (if it come to a ſecond impreſsion,) ſhall bee taken away. For the matter it ſelfe, the only complaint is, that it is ſo ſhort,
+<pb facs="tcp:171782:4"/>which I ſuppoſe may be ſomewhat ſuppli<g ref="char:EOLhyphen"/>ed by reading it of<g ref="char:EOLhyphen"/>ten; <hi>nec ſatis eſt legiſſe ſemel.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT</head>
+            <p>Moſt of thoſe places ſuſpected are amended in the Errata.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171782:5"/>
+            <pb n="1" facs="tcp:171782:5"/>
+            <head>
+               <hi>THE</hi> INSTRVCTIONS of Cardinall <hi>Sermonetta to his Couſin</hi> Petro Caetano at his going to ſerue the Duke of <hi>Parma.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>OST no<g ref="char:EOLhyphen"/>ble Lord, your Lord<g ref="char:EOLhyphen"/>ſhip ſhall follow on your voy<g ref="char:EOLhyphen"/>age with ſuch Orders
+<pb n="2" facs="tcp:171782:6"/>and Advertiſements as you haue already, and you ſhall write from every place as hither to you haue done, to the end that by every Poſte that commeth to Rome, it may bee knowne where you arriue from place to place; if betweene the day of your Lordſhips Arrivall at the Campe, or whereſoeuer the
+<pb n="3" facs="tcp:171782:6"/>Prince is, and the diſ<g ref="char:EOLhyphen"/>patch of the next meſ<g ref="char:EOLhyphen"/>ſenger for the parts of Italy, you can be more then once in the Com<g ref="char:EOLhyphen"/>pany of the Payma<g ref="char:EOLhyphen"/>ſter of the Armie, you ſhall endeavour to learne the ſtate of this Warre, and what is done, and what is meant to be done for the Kings ſervice.</p>
+            <p>For by theſe meanes
+<pb n="4" facs="tcp:171782:7"/>in your firſt Letters you may giue ſome Advertiſeme<g ref="char:cmbAbbrStroke">̄</g>ts of mat<g ref="char:EOLhyphen"/>ters that paſſe in that Province, you ſhall be a great Comfort to theſe moſt Honou<g ref="char:EOLhyphen"/>rable Lords, and your Allegiance ſhall breed great Honour to your ſelfe. Howbeit your Lordſhip muſt beware that you write not a<g ref="char:EOLhyphen"/>ny thinge which in
+<pb n="5" facs="tcp:171782:7"/>caſe your Letters ſhould miſcarry, might hurt either you, or any other. And in this manner I pray you proceed, vntill ſuch time as ſome Cipher be appointed between vs.</p>
+            <p>Let it not greiue your Lordſhip to write: for it will profit your ſelfe, and ſerue and ſatisfie their turnes, whom it
+<pb n="6" facs="tcp:171782:8"/>doth concerne: Note breifly in leafe of Pa<g ref="char:EOLhyphen"/>per ſuch things as you ſhall learne, or come into your minde to write, or make a re<g ref="char:EOLhyphen"/>membrance of them; when you write ſet that leaſe before you, and when you haue written your Letters, deface your note.</p>
+            <p>Make alſo a Liſte of their names, to whom
+<pb n="7" facs="tcp:171782:8"/>you write from time to time: For ſo you ſhall not incurre the want of memory. In your Letters, which are to be ſhewed vnto others, inſert no mat<g ref="char:EOLhyphen"/>ter, or adviſe, or any other thinge that may not be ſhewed: Your Letters that containe diverſe matters, write diſtinctly in ſeverall branches or heads, and
+<pb n="8" facs="tcp:171782:9"/>doe not make your writing a continued draught. Keepe Cop<g ref="char:EOLhyphen"/>pies of ſuch Letters as ſeeme to be of impor<g ref="char:EOLhyphen"/>tance: Keepe your Letters by you when they are written, and neuer cloſe them, till the Poſte hath his diſ<g ref="char:EOLhyphen"/>patch: for ſo you ſhall not be cloyed with too much matter; and be<g ref="char:EOLhyphen"/>ſides, you may adde
+<pb n="9" facs="tcp:171782:9"/>if need be.</p>
+            <p>If you write many Letters to one man, which are to be read in order, marke them in the Endorſment thus 1<hi rend="sup">a</hi>, 2<hi rend="sup">a</hi>, 3<hi rend="sup">a</hi>, &amp;c: and ſo let them be tied vp orderly in the pac<g ref="char:EOLhyphen"/>ket.</p>
+            <p>Your Lordſhip muſt Anſwere Letters and ſatisfie every man; except no perſon, al<g ref="char:EOLhyphen"/>though
+<pb n="10" facs="tcp:171782:10"/>he be a man of no accompt.</p>
+            <p>Reade and reade a<g ref="char:EOLhyphen"/>gaine the Letters more then once which you ſhall receiue; marke the words and ſuch things as are to be no<g ref="char:EOLhyphen"/>ted in them; Lay them before you when you Anſwer them; Reade them over againe and truſt not your memo<g ref="char:EOLhyphen"/>ry.</p>
+            <pb n="11" facs="tcp:171782:10"/>
+            <p>Keepe Letters of importance, for at ſome time or other they may ſerue either for juſtification, or for a warning; Burne thoſe that cannot bee kept without danger.</p>
+            <p>There ſhall be ſent to your Lordſhip a Cy<g ref="char:EOLhyphen"/>pher with the declara<g ref="char:EOLhyphen"/>tions thereof, and the points to be obſerued therein; to the end you
+<pb n="12" facs="tcp:171782:11"/>may write euer with ſecuritie.</p>
+            <p>Get the familiaritie and good will of the <hi>Poſt-maſter</hi> by making much of him, &amp; ſome times preſenting him with ſomewhat: for you ſhall haue great vſe of him &amp; particularly you ſhall bee partaker of divers Advertiſements that come from many Countries, and ſhall be
+<pb n="13" facs="tcp:171782:11"/>one of the firſt that ſhall knowe them; He will giue you intelli<g ref="char:EOLhyphen"/>gence daily when there is any diſpatch; His Packets will carry cre<g ref="char:EOLhyphen"/>dit, and ſo your Let<g ref="char:EOLhyphen"/>ters ſhall haue ſafe and ſpeedy delivery.</p>
+            <p>Your Father at your Lord (hips going into Flanders, did write to the Kings Majeſtie, and his Letter was to
+<pb n="14" facs="tcp:171782:12"/>this effect; That now it is thirteene yeares agoe, ſince he dedica<g ref="char:EOLhyphen"/>ted his ſervice to his Majeſtie with a pur<g ref="char:EOLhyphen"/>poſe to purchaſe of him the name and de<g ref="char:EOLhyphen"/>ſert of a Servant, for that till then he could not ſerue him but only in very ſmall matters. That every day he did feele more and more the ſting of devotion
+<pb n="15" facs="tcp:171782:12"/>and dutie. That to ſup<g ref="char:EOLunhyphen"/>plie the defect of fitt occaſions, he did ſend <hi>Peter</hi> his eldeſt Sonne into Flanders, to the end, hee ſhould ſerue his Majeſtie in the warre vnder the Or<g ref="char:EOLhyphen"/>der, and Obedience of the Prince, the gover<g ref="char:EOLhyphen"/>nour of thoſe Provin<g ref="char:EOLhyphen"/>ces. That aboue all things hee deſireth to his goodwill, and his
+<pb n="16" facs="tcp:171782:13"/>Sonnes, there want no occaſion to Fortune; Beſeeching his Maje<g ref="char:EOLhyphen"/>ſtie to Vouchſafe the admittance of this his reſolution, which though it neuer availe any other, yet it ſhall at the leaſt make ma<g ref="char:EOLhyphen"/>nifeſt, that in the ſervi<g ref="char:EOLunhyphen"/>ces of his Majeſtie, he hath pawned the per<g ref="char:EOLunhyphen"/>ſon of his Sonne as a gage of his Faith. To
+<pb n="17" facs="tcp:171782:13"/>this effect your Lord<g ref="char:EOLhyphen"/>ſhip ſhall ſpeake and write to the Kings offi<g ref="char:EOLhyphen"/>cers, to the end that both with his Maje<g ref="char:EOLhyphen"/>ſtie and them, there may be a Correſpon<g ref="char:EOLhyphen"/>dence of ſpeech and writing, and ſo they may bee perſwaded, that you are gone thi<g ref="char:EOLhyphen"/>ther to ſerue and de<g ref="char:EOLhyphen"/>ſerue.</p>
+            <p>The Prince (as your
+<pb n="18" facs="tcp:171782:14"/>Lordſhip knowes) is his Catholique Maje<g ref="char:EOLhyphen"/>ſties Lieutennant in the Lowe Countries and Commandeth the' Kings forces, and hath Soveraigne Authority in all things; and there<g ref="char:EOLhyphen"/>fore it is to be preſup<g ref="char:EOLhyphen"/>poſed that if you will ſerue the King, you muſt ſerue the Prince, and that ſerving his excellency you ſerue
+<pb n="19" facs="tcp:171782:14"/>his Majeſtie.</p>
+            <p>And for as much as to ſerue, and not ſatiſ<g ref="char:EOLhyphen"/>fie is a kind of not ſer<g ref="char:EOLhyphen"/>ving; your Lordſhip muſt reſolue with your ſelfe, ſo to doe, that the Prince may be ſerued by you to his ſatisfaction; and think with your ſelfe that he will then be ſatisfied with your ſervice, when you ſhall ſerue
+<pb n="20" facs="tcp:171782:15"/>him well, and well you cannot ſerue him, vn<g ref="char:EOLhyphen"/>leſſe you make your ſelfe actiue &amp; of good capacitie: In this point therefore it is neceſſa<g ref="char:EOLunhyphen"/>rie for you to beſtowe all your travell and in<g ref="char:EOLhyphen"/>duſtrie, and to learne that which you doe not yet knowe; which in my Opinion is of two ſorts: One belong<g ref="char:EOLhyphen"/>ing to the exerciſe of
+<pb n="21" facs="tcp:171782:15"/>warre; the other to the honour, and particular manners of his Excel<g ref="char:EOLhyphen"/>lencie.</p>
+            <p>For it is not enough for a Captaine to know the Arte of war<g ref="char:EOLhyphen"/>fare, but it behooveth him alſo to know how to vſe it according to the Honour and plea<g ref="char:EOLhyphen"/>ſure, and proper man<g ref="char:EOLhyphen"/>ner of his Generall.</p>
+            <p>This being preſup<g ref="char:EOLhyphen"/>poſed,
+<pb n="22" facs="tcp:171782:16"/>your Lordſhip ſhall ſeeke to haue full information of the Province of Flanders, and to learne vpon whom it boundeth, of what Compaſſe it is, on what ſide it may be avoyded or not, in<g ref="char:EOLhyphen"/>to how many parts it is divided, by what name or Title every part of it is called; what Sea, what Haven, what
+<pb n="23" facs="tcp:171782:16"/>Mountaines, what Ri<g ref="char:EOLhyphen"/>vers, what Lakes, what Mariſhes it hath, and ſuch other places of marke or note. The things likewiſe where<g ref="char:EOLhyphen"/>with it aboundeth, what it wanteth, to whom it yeeldeth any thinge, and of whom it receiueth any thinge, (I meane of ſuch things as the Countrie breedeth or breedeth
+<pb n="24" facs="tcp:171782:17"/>not, as Cattle, Fruits of the earth, and mines, and moreover their Trades, &amp; Labourers; Alſo their Citties, and Eſpecially their prin<g ref="char:EOLhyphen"/>cipalls; how bigg they be, how well built, how ſtronge, how popu<g ref="char:EOLhyphen"/>lous, how rich, their noble Families, and their wealth; their Ad<g ref="char:EOLunhyphen"/>herents; in what repu<g ref="char:EOLhyphen"/>tation and credit, and
+<pb n="25" facs="tcp:171782:17"/>how affected one to<g ref="char:EOLhyphen"/>wards another, the na<g ref="char:EOLhyphen"/>tures and conditions of the men; to what they are moſt apt, and to what they are vn<g ref="char:EOLhyphen"/>apt; and to what things they applie themſelues moſt and leaſt; their Religion, their Iudge<g ref="char:EOLhyphen"/>ments, their Cuſtomes and the manner of their government. The Kings revenue in what
+<pb n="26" facs="tcp:171782:18"/>it conſiſteth; whether it may be augmented or no, and how, and how much;</p>
+            <p>To the knowledge of theſe things your Lordſhip muſt Adde the Originall &amp; cauſe of this Warre, the true cauſes, the pretended cauſes of it, the princi<g ref="char:EOLhyphen"/>pall cauſes and the ſe<g ref="char:EOLhyphen"/>cundary, how <hi>Flanders</hi> was governed by the
+<pb n="27" facs="tcp:171782:18"/>Duke <hi>D'alua,</hi> how by the great Comman<g ref="char:EOLhyphen"/>der of <hi>Caſtile,</hi> how by <hi>Don John</hi> of <hi>Austria,</hi> and how it is now go<g ref="char:EOLhyphen"/>verned by this Prince; The diverſities and the likeneſſe of their go<g ref="char:EOLhyphen"/>vernments, their errors which they haue com<g ref="char:EOLhyphen"/>mitted, which are a<g ref="char:EOLhyphen"/>mended and which not; and how they were amended; the profita<g ref="char:EOLhyphen"/>ble
+<pb n="28" facs="tcp:171782:19"/>proviſions &amp; con<g ref="char:EOLhyphen"/>ſultations that haue bin put in execution, or not, with their good, or evill ſucceſſe; The forces of the Rebells, the aide and reliefe which they haue, how ſound, how durable it is; The expenſes that runne vpon the King, and the Warre, whe<g ref="char:EOLhyphen"/>ther it may be finiſhed or not; if it may, why it
+<pb n="29" facs="tcp:171782:19"/>is delayed; if not, what they expect, and what it is they feare;</p>
+            <p>Your Lordſhip muſt vſe all dilligence to know the ſituation of the Fortreſſes, that are of greateſt name and importance, in all the Prouince; whether they be held by the King, or by his Re<g ref="char:EOLhyphen"/>bells; vnderſtanding
+<pb n="30" facs="tcp:171782:20"/>the wants of euery one of them, how they may be woone and kept, what number of Souldiers is neceſſary for offence &amp; defence; what Artillery, what Munition, what Vic<g ref="char:EOLhyphen"/>tualls, what Succors, &amp; what impediments, and ſuch other things beſides, that may be Learned by men of practice &amp; experience.</p>
+            <pb n="31" facs="tcp:171782:20"/>
+            <p>Theſe obſeruations are to be noted either vnder your deſigne<g ref="char:EOLhyphen"/>ment, or vnder the Si<g ref="char:EOLhyphen"/>tuation of the fortreſ<g ref="char:EOLhyphen"/>ſes, or elſe in ſome o<g ref="char:EOLhyphen"/>ther conuenient leaues.</p>
+            <p>Euery art or profe<g ref="char:EOLhyphen"/>ſſion that a man lear<g ref="char:EOLhyphen"/>neth, is nothing elſe but a collection of Leſſons and rules, ſeruing to ſome Certaine end, which are found out
+<pb n="32" facs="tcp:171782:21"/>and drawne forth of practiſe and diſcourſe; And therefore if your Lordſhip will learne the Art of warfare, you muſt learne it of them that haue it, and marke how they put it in exe<g ref="char:EOLhyphen"/>cution, noting their Precepts and obſer<g ref="char:EOLhyphen"/>uing their Actions;</p>
+            <p>It ſhall be good for your Lordſhip at all times to be talking of
+<pb n="33" facs="tcp:171782:21"/>it, and yet not with e<g ref="char:EOLhyphen"/>uery body, but onely with ſuch as are cun<g ref="char:EOLhyphen"/>ing and expert, endea<g ref="char:EOLhyphen"/>uoring your ſelfe to be eapable and reſolued in ſuch things as they ſhall tell you, and in ſuch other things as you ſhall heare of day<g ref="char:EOLhyphen"/>ly in your ordinary diſ<g ref="char:EOLhyphen"/>courſes which ſhall happen: For it is very likely that you ſhall of<g ref="char:EOLhyphen"/>tentimes
+<pb n="34" facs="tcp:171782:22"/>heare ſuch matters; but it will not be any profit to you to heare and conceiue them; if when you haue heard and conceiued them, you ſhould not diſpoſe them in ſome order and make a re<g ref="char:EOLhyphen"/>membrance of them.</p>
+            <p>And therefore, I would greatly Com<g ref="char:EOLhyphen"/>mend your Lordſhip, if you would herein
+<pb n="35" facs="tcp:171782:22"/>vſe your pen, and write the Caſes &amp; rules which you ſhall haue heard; And ſo by little and lit<g ref="char:EOLhyphen"/>tle you ſhall make your ſelfe a rich Treaſure-houſe of Military pro<g ref="char:EOLhyphen"/>poſitions;</p>
+            <p>The manner that I would obſerue herein, ſhould be to haue my leaues and euery one of them noted with a word, ſignifiing either
+<pb n="36" facs="tcp:171782:23"/>a perſon, or an inſtru<g ref="char:EOLhyphen"/>ment or an Action, or ſome other thing con<g ref="char:EOLhyphen"/>cerning warre; Vnder which word as vnder a generall terme, or head, I would write all the Maximes, the Say<g ref="char:EOLhyphen"/>ings, the Opinions, the Iudgments, and Con<g ref="char:EOLhyphen"/>ceipts, that I 2hould learne belonging to ſuch things, Actions, Inſtruments, Perſons.</p>
+            <pb n="37" facs="tcp:171782:23"/>
+            <p>As for Example. If I ſhould vnderſtand that the Pike ſhould be Sixteene foote long, and that it was inuented to keepe out horſes, I would referre this ſaying to the leafe that is noted with the word, Pike. And if I ſhould heare that in fight the <hi>Arquibuſier</hi> after he hath diſcharg<g ref="char:EOLhyphen"/>ed his peece, muſt giue
+<pb n="38" facs="tcp:171782:24"/>place to the ſhouldier that ſtandeth next be<g ref="char:EOLhyphen"/>hinde him, and ſo re<g ref="char:EOLhyphen"/>tire himſelfe to the taile of that rowe, I would place this ſay<g ref="char:EOLhyphen"/>ing in the leafe that is noted with the word <hi>Arquibuſier.</hi> The like I would doe generally in all other matters that I ſhould happen to heare, appertaining to a Captaine, a Searjant, a
+<pb n="39" facs="tcp:171782:24"/>Standerd-bearer, a Ge<g ref="char:EOLhyphen"/>nerall of the Armie; &amp; others; alſo to Artille<g ref="char:EOLhyphen"/>rie, to <hi>Arquibuſiers,</hi> to Pikes, and other wea<g ref="char:EOLhyphen"/>pons of defence and offence.</p>
+            <p>Likewiſe for Victu<g ref="char:EOLhyphen"/>alls, for Munition, for Bagage, and ſuch like; for Lodging, for mar<g ref="char:EOLhyphen"/>ching, for fighting, and other actions of warrefare; and alſo
+<pb n="40" facs="tcp:171782:25"/>for the ſeige of a city; for the releiuing of it, for Trenching, for Vn<g ref="char:EOLhyphen"/>dermining, for Bate<g ref="char:EOLhyphen"/>rie, and ſuch other workes: To which heads and generall Tearmes, many others may be added;</p>
+            <p>Notwithſtanding all this it will not be ſufficient to learne and write, and make a re<g ref="char:EOLhyphen"/>membrance of theſe
+<pb n="41" facs="tcp:171782:25"/>things, vnleſſe your Lordſhip take a delight alſo to ſee them put in practice, and to exer<g ref="char:EOLhyphen"/>ciſe your ſelfe in them.</p>
+            <p>And therefore you may not omit to be at euerie muſter, and at euerie Action, and you muſt endeauour your ſelfe to be alwaies one of the firſt at them, that you may ſee the beginning, the mid<g ref="char:EOLhyphen"/>dle,
+<pb n="42" facs="tcp:171782:26"/>and the end of all ſtill demanding a rea<g ref="char:EOLhyphen"/>ſon of all that you 2hall ſee done; and wh it is rather thus done then otherwiſe, and whe<g ref="char:EOLhyphen"/>ther it be alwaies ſo done or not, together witht he differences of places, and times:</p>
+            <p>You ſhall alſo en<g ref="char:EOLhyphen"/>deauour your ſelfe to yeeld your aide and helpe to the Officers,
+<pb n="43" facs="tcp:171782:26"/>ſo that you haue leaue ſo to doe, in matters that doe not ſlacken, or hinder the Action of the Officers, or engen<g ref="char:EOLhyphen"/>der a confuſion or diſorder; but aboue all, that you doe not trou<g ref="char:EOLhyphen"/>ble the mindes of the ſaid Officers, and that you haue the good will and leaue of the Prince to doe what you doe.</p>
+            <p>I did put your Lord<g ref="char:EOLhyphen"/>ſhip
+<pb n="44" facs="tcp:171782:27"/>in minde here at Rome to keep a Dia<g ref="char:EOLhyphen"/>rie. I doe now againe put you in minde of it; for your owne bene<g ref="char:EOLhyphen"/>fit: you may make a booke to write ſuch things in, as happen from day to day; wherein you ſhall write not only the Succeſſes, but alſo the manner and cauſes of them; For (as you
+<pb n="45" facs="tcp:171782:27"/>know) euery Action hath its originall vupon ſome aduice, and he that putteh in execu<g ref="char:EOLhyphen"/>tion, keepeth or at leaſt ought to keepe with<g ref="char:EOLhyphen"/>in certaine bounds. And thus may your Lordſhip by all this your paines and tra<g ref="char:EOLhyphen"/>vailes with ſpeede ob<g ref="char:EOLhyphen"/>taine the Habilitie &amp; Vallour, which yet you want.</p>
+            <pb n="46" facs="tcp:171782:28"/>
+            <p>Touching the man<g ref="char:EOLhyphen"/>ner how you are to ſerue the Prince, in matters of warre, I can ſay no more vnto you, but that you muſt en<g ref="char:EOLhyphen"/>deauour to learne it, and vſe all the dili<g ref="char:EOLhyphen"/>gence you can to learne it of thoſe that have notice thereof, and ſo put it in execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Your Lordſhip
+<pb n="47" facs="tcp:171782:28"/>muſt not only ſerue the Prince well in thoſe things that con<g ref="char:EOLhyphen"/>cerne the Kings ſer<g ref="char:EOLhyphen"/>uice, but in your pro<g ref="char:EOLhyphen"/>ceedings with him you muſt pleaſe him, and applie your ſelfe to the humour and faſhi<g ref="char:EOLhyphen"/>on of his Excellency; thereby to get his loue and fauour. The re<g ref="char:EOLhyphen"/>port is, that the Prince ſtandeth vpon termes
+<pb n="48" facs="tcp:171782:29"/>&amp; keepeth a great Ma<g ref="char:EOLhyphen"/>ieſtie, ſo that it is like<g ref="char:EOLhyphen"/>ly (as ſome thinke) that he will vſe with your Lordſhip termes of great grauitie; But be<g ref="char:EOLhyphen"/>cauſe I am of a contra<g ref="char:EOLhyphen"/>ry opinion from them, I muſt tell you that in this your beginninge, the Prince will either make much of you, and talke familiarlie with you, and ſo fa<g ref="char:EOLhyphen"/>uour
+<pb n="49" facs="tcp:171782:29"/>you, and beſtow ſome charge vpon you, or he will doe cleane contrarie, or elſe he will keepe meane betweene both.</p>
+            <p>In the firſt caſe I muſt put your Lord<g ref="char:EOLhyphen"/>ſhip in minde, that in all your Actions you conſtantly obſerue one perpetual cauſe of obe<g ref="char:EOLhyphen"/>dience, and reuerence, and the more you ſhall
+<pb n="50" facs="tcp:171782:30"/>be honoured, and fa<g ref="char:EOLhyphen"/>uoured by the Prince, ſo much the more muſt you ſhew your ſelfe reuerent and mo<g ref="char:EOLhyphen"/>deſt towards him; not fore-ſlowing in any ſort throughly to per<g ref="char:EOLhyphen"/>forme your dutie; nor in any caſe taking to your ſelfe too much li<g ref="char:EOLhyphen"/>bertie, or licenſe by it.</p>
+            <p>In the ſecond caſe your Lordſhip muſt
+<pb n="51" facs="tcp:171782:30"/>not take any offence, neither yet diſtruſt him, nor diſdaine him; Serue him as you ought to doe, and in your ſeruice ſhew your good will and con<g ref="char:EOLhyphen"/>ſtancie, and be not diſ<g ref="char:EOLhyphen"/>maied at any accident, that may peraduen<g ref="char:EOLhyphen"/>ture breede your diſ<g ref="char:EOLhyphen"/>like. Conſider with your ſelfe, that the Haughtineſſe of the
+<pb n="52" facs="tcp:171782:31"/>Prince, is either in him by nature, and ſo it is the more excuſable, or elſe it proceedeth from his owne will, his Ex<g ref="char:EOLhyphen"/>cellencie thinking with himſelfe that it is ne<g ref="char:EOLhyphen"/>ceſſarie for him ſo to doe, both in reſpect of the qualitie of his bu<g ref="char:EOLhyphen"/>ſineſſe, and of the Go<g ref="char:EOLhyphen"/>uernment which hee hath; and alſo becauſe he ſuſtaineth the Au<g ref="char:EOLhyphen"/>thoritie
+<pb n="53" facs="tcp:171782:31"/>and perſon of the King there in Flan<g ref="char:EOLhyphen"/>ders: from whom we may well ſay alſo, that he hath receiued order and commandment ſo to doe: theſe two ad<g ref="char:EOLhyphen"/>vertiſements may de<g ref="char:EOLhyphen"/>clare to your Lordſhip what courſe you ſhould keepe in the third caſe.</p>
+            <p>The Prince is Cou<g ref="char:EOLhyphen"/>ragious, and ſome
+<pb n="54" facs="tcp:171782:32"/>thinke, that he is more venturous then is re<g ref="char:EOLhyphen"/>quiſite for a perſon, that hath vpon him ſuch a charge as he hath; Conſidering that the Kings reputation leaneth vpon him, and the ſafetie alſo of ſo much as his Maieſtie poſſeſſeth in Flanders; And therefore he was reprooued by the King, when he was
+<pb n="55" facs="tcp:171782:32"/>wounded at <hi>Tornay,</hi> for that (Like a Pri<g ref="char:EOLhyphen"/>uate Souldier) Hee would venture him<g ref="char:EOLhyphen"/>ſelfe to winne the ditch of the fortreſſe, with ſuch danger as every man knoweth. In this reſpect the Prince lo<g ref="char:EOLhyphen"/>veth reſolute men, re<g ref="char:EOLhyphen"/>gardeth them much, and maketh great ac<g ref="char:EOLhyphen"/>compt of them;</p>
+            <p>His Excellencie plai<g ref="char:EOLhyphen"/>eth
+<pb n="56" facs="tcp:171782:33"/>neither at cards nor<g ref="char:EOLunhyphen"/>dice, and it is likely that ſuch as are like him ſhould conſe<g ref="char:EOLhyphen"/>quently be the more in his favour.</p>
+            <p>The Prince loveth one Lady of good qua<g ref="char:EOLhyphen"/>litie, and taketh great pleaſure, that ſhee ſhould bee Courted &amp; ſerued by thoſe which eſteeme his favour. It will become your
+<pb n="57" facs="tcp:171782:33"/>Lordſhip alſo to doe your beſt to that end, leſt otherwiſe you diſ<g ref="char:EOLhyphen"/>pleaſe the Prince; And for the ſame reſpect you muſt likewiſe ab<g ref="char:EOLhyphen"/>ſtaine from doing too much, and alwayes re<g ref="char:EOLhyphen"/>member that a woman is a fraile Creature &amp; a very dangerous thing.</p>
+            <p>Other matters that touch the minde and honours of the Prince,
+<pb n="58" facs="tcp:171782:34"/>you muſt learne of thoſe that vſe his com<g ref="char:EOLhyphen"/>panie, wherein your Lordſhip muſt imploy your diligence. And although it ſhall bee your office and dutie to ſerue and attend the Perſon of a Prince, yet you muſt vnderſtand, that too much conti<g ref="char:EOLhyphen"/>nuance in ſo doing, will hurt, and engen<g ref="char:EOLhyphen"/>der a loathing; for it
+<pb n="59" facs="tcp:171782:34"/>maketh the ſuperiour to be a ſervant as it were, &amp; breedeth him much hinderance and incon<g ref="char:EOLhyphen"/>venience. And there<g ref="char:EOLhyphen"/>fore informe your ſelfe well, how the Prince diſpoſeth of his time, at what houre he is bu<g ref="char:EOLhyphen"/>ſie, when he would be alone, and when he deſireth Companie to paſſe away the time, and with whom; to
+<pb n="60" facs="tcp:171782:35"/>the end, that while you ſtudie to pleaſe him, you doe not impor<g ref="char:EOLhyphen"/>tune him, or moleſt him;</p>
+            <p>In the preſence of the Prince ſpeake but little, and ſpeake onelie what you know, and that vpon good occa<g ref="char:EOLhyphen"/>ſion. Premeditate be<g ref="char:EOLhyphen"/>fore hand, what you meane to ſpeake to his Excellencie. And doe
+<pb n="61" facs="tcp:171782:35"/>it reſolutelie, and in good order</p>
+            <p>To ſuch diſcourſe as ſhall paſſe in the pre<g ref="char:EOLhyphen"/>ſence of the Prince, or when his Excellen<g ref="char:EOLhyphen"/>cy doth diſcourſe him<g ref="char:EOLhyphen"/>ſelfe, ſhew your ſelfe to bee very attentiue, otherwiſe it will bee thought that you re<g ref="char:EOLhyphen"/>gard neither who ſpea<g ref="char:EOLhyphen"/>keth nor what he ſpea<g ref="char:EOLhyphen"/>keth.</p>
+            <pb n="62" facs="tcp:171782:36"/>
+            <p>Shew your ſelfe alſo capable of ſuch things as are diſcourſed vpon, that thereby you may breed a good opinion of your ſharpneſſe and witt. Likewiſe giue ſome token of your o<g ref="char:EOLhyphen"/>pinion and affection touching that which you ſhall heare, to the end that it may bee ſeene, that you either like, or diſlike that
+<pb n="63" facs="tcp:171782:36"/>which in truth is to be liked, or diſliked.</p>
+            <p>In all theſe ſhewes, you muſt bee farre from all ſhadowe of Cunning, but doe it in ſilence.</p>
+            <p>In the preſence of the Prince doe not ſhew your ſelfe Me<g ref="char:EOLhyphen"/>lancholy, nor thought<g ref="char:EOLhyphen"/>full; for ſadneſſe, and muſing offend great Perſonages, who doe
+<pb n="64" facs="tcp:171782:37"/>attribute it to the little reuerence that is borne to them, when a man is preſent in bodie, and abſent from them in minde.</p>
+            <p>Such things as the Prince ſhall tell you, keepe to your ſelfe, and if you chance to heare them of any other, make you as though they were newes to you, and bee you al<g ref="char:EOLhyphen"/>waies
+<pb n="65" facs="tcp:171782:37"/>the laſt man that ſhall talke of them.</p>
+            <p>There will not want ſome, that either for their owne priuate in<g ref="char:EOLhyphen"/>tereſt, or for their freinds ſake will re<g ref="char:EOLhyphen"/>queſt your Lordſhips interceſſion for them to the Prince: I muſt here put you in minde, it will be noe eaſie matter for you to pleaſe them herein;
+<pb n="66" facs="tcp:171782:38"/>For if you obtaine the grant of his Excellen<g ref="char:EOLhyphen"/>cie, he will keepe a rec<g ref="char:EOLhyphen"/>koning of it; if you doe not obtaine it, he will think your Lord<g ref="char:EOLhyphen"/>ſhip is diſcontented with the repulſe. And in truth euery day to be a requeſting for other men, may breed a great trouble. And therefore it ſhall be<g ref="char:EOLhyphen"/>hooue you in milde
+<pb n="67" facs="tcp:171782:38"/>to anſwer thoſe, for whom you de<g ref="char:EOLhyphen"/>nie to make interce<g ref="char:EOLhyphen"/>ſſion, and to vſe ſome reaſonable excuſe, that they may goe from you with good con<g ref="char:EOLhyphen"/>tenment.</p>
+            <p>If you doe make in<g ref="char:EOLhyphen"/>terceſſion for others, (which by my aduiſe you ſhall take vpon you but ſeldome) let the things which your
+<pb n="68" facs="tcp:171782:39"/>Lordſhip ſhall deſire, be iuſt and fit for you, and conuenient for the time, not vnuſuall to be granted; and if it be poſſible; let them be a greeable to the Ser<g ref="char:EOLhyphen"/>uice of his Maieſtie, and the honour of the Prince.</p>
+            <p>The Perſons for whom you ſhall make ſuite, let them not be o<g ref="char:EOLhyphen"/>dious, nor of ill name.</p>
+            <pb n="69" facs="tcp:171782:39"/>
+            <p>Before you reſolue with your ſelfe to in<g ref="char:EOLhyphen"/>treate any grace or fa<g ref="char:EOLhyphen"/>uour for other men, firſt ſee, and learne throughlie, whether the Perſon that deſi<g ref="char:EOLhyphen"/>reth your Mediation, hath any competitour or no; and who it is; And if his competitour be ſupported either by any great perſon, or by ſome ſeruant that is
+<pb n="70" facs="tcp:171782:40"/>fauoured of the King, or of his Excellencie;</p>
+            <p>In caſe your Lord<g ref="char:EOLhyphen"/>ſhip obtaine his ſuite, you muſt ſhew that you make great ac<g ref="char:EOLhyphen"/>compt of it; but in caſe you doe not obtaine, yet you muſt ſhew your ſelfe to be con<g ref="char:EOLhyphen"/>tented, and make the Prince beleiue alſo, that it is ſo.</p>
+            <p>If the Prince ſhall
+<pb n="71" facs="tcp:171782:40"/>commit any ſeruice to your Lordſhip, take your comiſſion plaine &amp; diſtinct; reade it and read it againe to his ex<g ref="char:EOLhyphen"/>cellencie, and depart not from him with a<g ref="char:EOLhyphen"/>ny doubt. If it be long, or if there bee many, or if any importance, take their declarations, and Interpretations in writing, and reſolue with your ſelfe rather
+<pb n="72" facs="tcp:171782:41"/>to importune his Ex<g ref="char:EOLhyphen"/>cellencie, then to run into any danger of committing any error.</p>
+            <p>In publique Acti<g ref="char:EOLhyphen"/>ons haue no regard of degree, or prece<g ref="char:EOLhyphen"/>dencie, and Venture vpon euerie thinge; Accompt euerie place honourable, &amp; euerie Action worthie of you, and put things in execution in the pre<g ref="char:EOLhyphen"/>ſence
+<pb n="73" facs="tcp:171782:41"/>of the Prince, as though it were in the preſence of the King himſelfe; and in the ab<g ref="char:EOLhyphen"/>ſence of the Prince, as though it were in the Eye of his Excellencie.</p>
+            <p>If any man come to complaine himſelfe of his greifes to your Lordſhip, giue him the hearing for once; and make as though you were moued with
+<pb n="74" facs="tcp:171782:42"/>compaſſion towards him: put him in good comfort and extenuate the Iniurie that he pre<g ref="char:EOLhyphen"/>tendeth, but euer ex<g ref="char:EOLhyphen"/>cuſe the Prince, and ex<g ref="char:EOLhyphen"/>horte the partie to hold his peace, and be patient; eſpeciallie and aboue all, be very wa<g ref="char:EOLhyphen"/>ry in offering or Mi<g ref="char:EOLhyphen"/>niſtring any Counſell to ſuch Perſons; For ſuch kinde of men doe
+<pb n="75" facs="tcp:171782:42"/>not vſe alwaies to ſpeake the truth, and oftentimes are very full of infirmities, and commonlie we doe not knowe who is their Aduerſarie, nor what they report of vs in ſe<g ref="char:EOLhyphen"/>cret.</p>
+            <p>If your Lordſhip be aduiſed to vſe but little Speech in the preſence of the Prince, I doe re<g ref="char:EOLhyphen"/>ply and add that your
+<pb n="76" facs="tcp:171782:43"/>Lordſhip ſhall obſerue that aduiſe in the pre<g ref="char:EOLhyphen"/>ſence of euerie man; For ſilence is aboue all vertues, and ſaueth a man from infinite errors, But yet I would wiſh your Lordſhip ſo to keepe ſilence that it may be knowne it is wiſedome for the moſt parte you ſhall vtter.</p>
+            <p>In your demaunds
+<pb n="77" facs="tcp:171782:43"/>and anſweres be mo<g ref="char:EOLhyphen"/>deſt; In all your que<g ref="char:EOLhyphen"/>ſtions obſerue oportu<g ref="char:EOLhyphen"/>nitie, and in your an<g ref="char:EOLhyphen"/>ſweres be breife and ſenſible.</p>
+            <p>Queſtion with thoſe that know more then your ſelfe, for ſo you ſhall put in execu<g ref="char:EOLhyphen"/>tion thoſe aduertiſe<g ref="char:EOLhyphen"/>ments that ſerue for your learning.</p>
+            <p>Tell noe Tales;
+<pb n="78" facs="tcp:171782:44"/>Vſe no diſcourſes, op<g ref="char:EOLhyphen"/>poſe not your ſelfe a<g ref="char:EOLhyphen"/>gainſt others; Giue your iudgment or ſen<g ref="char:EOLhyphen"/>tence againſt no man; Speake well of euerie bodie, Eſpeciallie of thoſe which are in fa<g ref="char:EOLhyphen"/>uour with his Excel<g ref="char:EOLhyphen"/>lencie.</p>
+            <p>Finde fault with no man, vnleſſe it be more then neceſſarie ſo to doe; Blame the
+<pb n="79" facs="tcp:171782:44"/>Action not the Per<g ref="char:EOLhyphen"/>ſon: Speake Honoura<g ref="char:EOLhyphen"/>blie of all Nations, and learne what is proper and peculiar to euerie one, and what euerie one ſeeketh and de<g ref="char:EOLhyphen"/>ſireth.</p>
+            <p>Giue charge to your ſeruants that they keep their tongues to them<g ref="char:EOLhyphen"/>ſelues; and prattle not too much of any bo<g ref="char:EOLhyphen"/>die; For oftentimes it
+<pb n="80" facs="tcp:171782:45"/>is attributed to the maſter which is ſpo<g ref="char:EOLhyphen"/>ken by his familie;</p>
+            <p>Of the <hi>Pope</hi> and his fellowes giue good ſpeeches, ſhew your good contentment &amp; reuerence towards him. Perſwade your ſelfe that you ſhall be marked and noted in all things whatſoeuer you ſay, or doe; and doubt not but that
+<pb n="81" facs="tcp:171782:45"/>
+               <hi>Campes</hi> are full of Spies, and the Prince him<g ref="char:EOLhyphen"/>ſelfe hath ſome to<g ref="char:EOLhyphen"/>wards him for that purpoſe; and therefore he will accept in good parte that which they ſhall tell him, as his good and louing ſer<g ref="char:EOLhyphen"/>uants. And will encou<g ref="char:EOLhyphen"/>rage them to aduer<g ref="char:EOLhyphen"/>tiſe him of ſuch mat<g ref="char:EOLhyphen"/>ters as are for his Ser<g ref="char:EOLhyphen"/>uice.</p>
+            <pb n="82" facs="tcp:171782:46"/>
+            <p>Be familiar with euerie man, but eſpeci<g ref="char:EOLhyphen"/>allie with ſuch as are of vertue and Vallour; for they will not only inſtruct you, but alſo they will breed your credit: with others keepe familiaritie: for ſo you ſhall not of<g ref="char:EOLhyphen"/>fend them, nor haue a<g ref="char:EOLhyphen"/>ny enimies;</p>
+            <p>You ſhall be ac<g ref="char:EOLhyphen"/>compted wiſe by
+<pb n="83" facs="tcp:171782:46"/>fitting your ſelfe to e<g ref="char:EOLhyphen"/>uerie mans humour, and practiſing with the Italians after the I<g ref="char:EOLhyphen"/>talian manner, with the Spaniards after the Spaniſh, and with the Flemings after the Fle<g ref="char:EOLhyphen"/>miſh manner.</p>
+            <p>You muſt be ad<g ref="char:EOLhyphen"/>uiſed that the people of that Nation are ve<g ref="char:EOLhyphen"/>ry credulous, ſuſpici<g ref="char:EOLhyphen"/>ous, giuen to Nouel<g ref="char:EOLhyphen"/>ties,
+<pb n="84" facs="tcp:171782:47"/>and vnthankfull They ſpeake &amp; drink liberally, &amp; doe hard<g ref="char:EOLhyphen"/>ly bridle the infirmi<g ref="char:EOLhyphen"/>ties of the body, much leſſe the paſſions of the minde.</p>
+            <p>Giue courteous en<g ref="char:EOLhyphen"/>tertainment to all but eſpecially to the Prin<g ref="char:EOLhyphen"/>ces ſervants; Aboue all, procure the friendſhip of his Favorites, &amp; of all his ſervants and offi<g ref="char:EOLhyphen"/>cers
+<pb n="85" facs="tcp:171782:47"/>both publike, and private, that are in the favour and good grace with his Excellencie;</p>
+            <p>Diſdaine no man though he be neuer ſo baſe, remembring with your ſelfe, that in time and place one man may be worth a thou<g ref="char:EOLhyphen"/>ſand, eſpecially in oc<g ref="char:EOLhyphen"/>currents of warre;</p>
+            <p>Giue no eare to ſuch as report other mens
+<pb n="86" facs="tcp:171782:48"/>actions, and make a profeſſion of it; nor to ſuch as by that meanes ſeeke to purchaſe your fauour; Eſpecially if they be reporters of naughty matters, and of ſuch as ſhall touch great Lords or the per<g ref="char:EOLhyphen"/>ſon of a Prince; In which caſe your Lord<g ref="char:EOLhyphen"/>ſhip muſt not only be loath to heare them, but alſo reiect them
+<pb n="87" facs="tcp:171782:48"/>and cauſe them to a<g ref="char:EOLhyphen"/>uoide your preſence.</p>
+            <p>To thoſe that ſhall conuerſe with you, doe not imparte the e<g ref="char:EOLhyphen"/>vill ſpeeches, that other men ſhall vtter to you of them; or at leaſt conceale the Authors name, to the end that through your default there ariſe no hatred, where none is; or if there be any, that it be
+<pb n="88" facs="tcp:171782:49"/>no farther enkindled; and ſo your Lordſhip ſhall not be noted for lightneſſe.</p>
+            <p>If any iealous or en<g ref="char:EOLhyphen"/>uious Perſon ſeeke to ſlaunder or preiudice your Lordſhip privily, know him throughly, and be not deceaued, Obſerue his demea<g ref="char:EOLhyphen"/>nor, &amp; make as though you did not heed him; Eſpecially beware you
+<pb n="89" facs="tcp:171782:49"/>behaue your ſelfe well, and goe beyond him in that point; Enter<g ref="char:EOLhyphen"/>taine him with all ho<g ref="char:EOLhyphen"/>nour, be often in his company, ouercome him in curteſie, and comfort him. To ſuch as he is a friend vnto, doe all the ſeruice and fauour you can; yea e<g ref="char:EOLhyphen"/>uen vnto ſuch as know it, and perad<g ref="char:EOLhyphen"/>uenture ſet forward
+<pb n="90" facs="tcp:171782:50"/>his euill conceipts. To be breife, auoyd all oc<g ref="char:EOLhyphen"/>caſion of breach with him, and if there muſt needs be a breach, let it be ſeene, that your Lordſhip doth it of neceſſity and iuſtice, and that the fault and default is in him.</p>
+            <p>With ſuch like Per<g ref="char:EOLhyphen"/>ſons and euery body elſe, though it be your open enemy, keepe
+<pb n="91" facs="tcp:171782:50"/>good intelligence al<g ref="char:EOLhyphen"/>wayes when there is any matter in hand touching the ſeruice of the King, or of the Prince: and for the ſer<g ref="char:EOLhyphen"/>uice of his Maieſty, or of his Excellencie, lay downe all priuate paſ<g ref="char:EOLhyphen"/>ſion or rancour; and in caſe ſuch a Perſon either for want of knowledge, or of pow<g ref="char:EOLhyphen"/>er, or for any other
+<pb n="92" facs="tcp:171782:51"/>cauſe what ſoeuer ſhould runne into danger to commit ſome error, to the preiudice of the King, or the Prince; your Lordſhip may not ſuffer the error to be committed by any meanes, although your Aduerſarie thereby might fall into the diſ<g ref="char:EOLhyphen"/>pleaſure of his M<hi rend="sup">tie</hi> or of his Excellency; but lend your hand vnto it,
+<pb n="93" facs="tcp:171782:51"/>although it were a common danger.</p>
+            <p>Diſſimulation is ne<g ref="char:EOLhyphen"/>ceſſary for euery man, ſpecially in Armes and in Courts; yet is not e<g ref="char:EOLhyphen"/>uery Diſſimulation good and honoura<g ref="char:EOLhyphen"/>ble; but that onely which tendeth to a good and honeſt end, and which with the obſeruations of due circumſtances, denieth
+<pb n="94" facs="tcp:171782:52"/>not the truth nor go<g ref="char:EOLhyphen"/>eth againſt that which is right: Such kind of Diſſimulation is a part and kind of prudence and conſiſteth for the moſt part in ſilence or holding your peace, and that for theſe cau<g ref="char:EOLhyphen"/>ſes following:</p>
+            <p>
+               <hi>Videlicet,</hi> not to publiſh that which a<g ref="char:EOLhyphen"/>nother man hath com<g ref="char:EOLhyphen"/>mitted to our truſt, not
+<pb n="95" facs="tcp:171782:52"/>to bring any thing to light, vpon knowledg whereof ſome ſcan<g ref="char:EOLhyphen"/>dall may enſue; not to diſcouer any deſign<g ref="char:EOLhyphen"/>ment, which being diſ<g ref="char:EOLhyphen"/>couered ſhould not at<g ref="char:EOLhyphen"/>taine to his purpoſe; not to let others ſee that wee know the de<g ref="char:EOLhyphen"/>fects of other men, or any euill deeds of o<g ref="char:EOLhyphen"/>thers. For men of euill imperfections &amp; guil<g ref="char:EOLhyphen"/>ty
+<pb n="96" facs="tcp:171782:53"/>of any defaults, when they are knowne to be ſuch Perſons, doe commonly hate them that knowe them to be ſo; Not to make knowne that we know the thoughts of other men; or the hard con<g ref="char:EOLunhyphen"/>ceipts which other men haue againſt vs, or againſt ſuch as wee loue; or the good af<g ref="char:EOLhyphen"/>fection which other
+<pb n="97" facs="tcp:171782:53"/>men beare towards thoſe which are our e<g ref="char:EOLhyphen"/>nimies; Not to giue any notice that wee know an offence committed againſt vs, or that wee doe make ſo great ac<g ref="char:EOLhyphen"/>compt of it; nor to put our ſelues in any neceſſity, danger, or deſtruction by con<g ref="char:EOLhyphen"/>tending to anſwere, when neither the mat<g ref="char:EOLhyphen"/>ter, nor the Perſon, nor
+<pb n="98" facs="tcp:171782:54"/>the Place, nor the time doth require it.</p>
+            <p>Laſtly not to bring any hurt or ſhame vp<g ref="char:EOLhyphen"/>on our ſelues or o<g ref="char:EOLhyphen"/>thers, but to the bene<g ref="char:EOLhyphen"/>fit and honour of our ſelues and others.</p>
+            <p>In all theſe cauſes to diſſemble with ſilence is thought to be good, and is not reproue<g ref="char:EOLhyphen"/>able: And although it ſeemeth to be a very
+<pb n="99" facs="tcp:171782:54"/>hard matter to deale thus with our friends in not telling them ſuch things, as being told them would doe them pleaſure and ſer<g ref="char:EOLhyphen"/>uice; yet in the caſes preſuppoſed, reaſon would that the greater reſpect ſhould not be neglected, and ſo we doe our ſelues the more wrong.</p>
+            <p>But ſometimes it
+<pb n="100" facs="tcp:171782:55"/>falleth out, that wee muſt alſo diſſemble with ſpeech: and that falleth out, when wee are driven of neceſſity to anſwer: And if a man demande of vs whe<g ref="char:EOLhyphen"/>ther a matter be ſo, or not ſo; and what is purpoſed or concei<g ref="char:EOLunhyphen"/>ued, It is not fit to diſ<g ref="char:EOLhyphen"/>ſemble with ſilence, but we muſt diſſemble with anſwere; and this
+<pb n="101" facs="tcp:171782:55"/>diſſimulatio<g ref="char:cmbAbbrStroke">̄</g> requireth more Art. For in ſuch caſes ſpeech can<g ref="char:EOLhyphen"/>not be avoided, and we are commonly as deſirous to keepe our ſelues from danger in telling a lie, as from danger in telling a truth;</p>
+            <p>Some there are, that in ſuch a caſe doe vſe to diſſemble by cutting of their ſpeech, and lea<g ref="char:EOLhyphen"/>ping
+<pb n="102" facs="tcp:171782:56"/>into another mat<g ref="char:EOLhyphen"/>ter; but this doth not alwayes ſort to good effect, or at leaſt will not ſerue the turne.</p>
+            <p>Others there are, which anſwer they cannot tell; and this is a fault, becauſe they de<g ref="char:EOLhyphen"/>nie the truth, and ſay that which is not; And therefore the anſwer muſt be like to the re<g ref="char:EOLhyphen"/>treat, which is both
+<pb n="103" facs="tcp:171782:56"/>without flying, and al<g ref="char:EOLhyphen"/>ſo without fighting, goods and perſons ſa<g ref="char:EOLhyphen"/>ved;</p>
+            <p>In making anſwer three things are wont tobe obſerued: firſt not to deny the truth, ſe<g ref="char:EOLhyphen"/>condly not to tell that which wee ſhould not; thirdly not to leaue the mind of him that maketh the de<g ref="char:EOLhyphen"/>mande, in the ſame
+<pb n="104" facs="tcp:171782:57"/>termes, wherein we found him. And the anſwer is ſo much the more commendable, if it be reſtrained with<g ref="char:EOLhyphen"/>in theſe limits;</p>
+            <p>Although ſome<g ref="char:EOLhyphen"/>times it is alſo lawfull to note the demander for his impertinent de<g ref="char:EOLhyphen"/>mands; which may be done either covertly or openly, according to the degrees of the
+<pb n="105" facs="tcp:171782:57"/>perſons, and the quali<g ref="char:EOLhyphen"/>ties of the circumſtan<g ref="char:EOLhyphen"/>ces.</p>
+            <p>There is a diſſimu<g ref="char:EOLhyphen"/>lation likewiſe permit<g ref="char:EOLhyphen"/>ted by exterior ſhews and by deeds; and that is, when for the reaſons and ends aforeſaid, we abſtaine from ſhew<g ref="char:EOLhyphen"/>ing either gladneſſe, or ſorrow, or hope, or feare, or any other af<g ref="char:EOLhyphen"/>fection that is in vs;
+<pb n="106" facs="tcp:171782:58"/>and alſo from making men to thinke that we doe ſee thoſe things which we doe ſee, &amp; perceiue thoſe things which we doe perceiue, and finally that wee doe know, deale in, and deſire, that which indeed we doe know, deale in and deſire.</p>
+            <p>And be it knowne vnto your Lordſhip that in the whole life
+<pb n="107" facs="tcp:171782:58"/>of man, and all his ac<g ref="char:EOLhyphen"/>tions and buſineſſe, diſſimulation is no leſſe profitable then Counter-poyſons; and true preſeruatiues are in Phiſicke: for euen as things doe preſerue and keep vs from poy<g ref="char:EOLhyphen"/>ſon, and many other euills; ſo doth diſſimu<g ref="char:EOLhyphen"/>lation ſaue vs from many deceipts, and er<g ref="char:EOLhyphen"/>rors, and from infinite
+<pb n="108" facs="tcp:171782:59"/>other hurtfull things:</p>
+            <p>You muſt know al<g ref="char:EOLhyphen"/>ſo, that diſſimulation being not well vſed, doth diſcouer your ſelfe, &amp; bringeth forth an effect quite co<g ref="char:cmbAbbrStroke">̄</g>trary to your meaning, and the preſent buſineſſe: And therefore your Lordſhip muſt take heed, that when you keep ſilence with your tongue, you doe not
+<pb n="109" facs="tcp:171782:59"/>ſpeake by the motions of your countenance, nor by other geſtures of your body.</p>
+            <p>Secondly, that when you diſſemble by ſpea<g ref="char:EOLhyphen"/>king, you doe not diſ<g ref="char:EOLhyphen"/>couer your ſelfe by ſuch meanes touching the matter you ſhould leaue in doubt; And laſtly, that if you diſ<g ref="char:EOLhyphen"/>ſemble by action or outward appearance,
+<pb n="110" facs="tcp:171782:60"/>you doe it covertly and with great warineſſe, and that you doe not runne into any extre<g ref="char:EOLhyphen"/>mity.</p>
+            <p>But for as much as in matters which we handle, Fortune hath a great ſtroke, and in warre eſpecially hath her principall domini<g ref="char:EOLhyphen"/>on, your Lordſhip muſt watch opportu<g ref="char:EOLhyphen"/>nity, which indeed is
+<pb n="111" facs="tcp:171782:60"/>the matter and conve<g ref="char:EOLhyphen"/>niency of your actions, &amp; maketh thoſe things poſſible, which before could not be brought to paſſe, &amp; thoſe things eaſie, which before were hard, and thoſe things ſafe, which be<g ref="char:EOLhyphen"/>fore were dangerous, and thoſethings good and profitable, which before were hurtfull &amp; naught. And there<g ref="char:EOLhyphen"/>fore
+<pb n="112" facs="tcp:171782:61"/>keepe theſe things in your mind alwaies, that you entertaine oc<g ref="char:EOLhyphen"/>caſion and opportuni<g ref="char:EOLhyphen"/>ty, and waite for them, and not prevent them, And doe not as others doe who being impa<g ref="char:EOLhyphen"/>tient in their deſires, doe, ſnatch before their time, and being deſi<g ref="char:EOLhyphen"/>rous to prevent oppor<g ref="char:EOLhyphen"/>tunity, doe venture their evill fortune and
+<pb n="113" facs="tcp:171782:61"/>overthrow them ſelues.</p>
+            <p>And in caſe oppor<g ref="char:EOLhyphen"/>tunity not offering it ſelfe, your Lordſhip be diſpoſed to ſeeke it, then you muſt ſeeke it wiſely, and with good meanes, becauſe ſuch opportunities as are forced, and as it were begged, are for the moſt part neither hap<g ref="char:EOLhyphen"/>pie nor commodious, But if opportunity be
+<pb n="114" facs="tcp:171782:62"/>offered, your Lordſhip muſt take knowledge of it. And becauſe it is a hard matter to know it, for that it is a hard thinge which is not ſeene, and hath no ſhape when it doth come, it is compre<g ref="char:EOLhyphen"/>hended by your mind, if you marke all acci<g ref="char:EOLhyphen"/>dents, and be attentiue to the end.</p>
+            <p>And for as much as
+<pb n="115" facs="tcp:171782:62"/>all occaſions that are offered are not al<g ref="char:EOLhyphen"/>waies to purpoſe; your Lordſhip muſt vſe great iudgment, which will meaſure and compare things toge<g ref="char:EOLhyphen"/>ther, and will diſcerne and, determine vpon the conueniency there of: vſe all your iudg<g ref="char:EOLhyphen"/>ment herein, and take hold of oportunity, &amp; be alwaies ready to
+<pb n="116" facs="tcp:171782:63"/>take hold of it. For fortune commeth and goeth according to the motions of time, and that offer which is made now, (if it be not accepted of vs) a little while after it will proue nothing.</p>
+            <p>In the execution of any thing, your Lordſhip muſt be, both conſiderate, and alſo hardie: for he that fea<g ref="char:EOLhyphen"/>reth,
+<pb n="117" facs="tcp:171782:63"/>performeth leſſe; and he that vſeth no conſideration, perfor<g ref="char:EOLhyphen"/>meth more then is conuenient; which is the originall of all danger:</p>
+            <p>In execution two things among others are eſpecially reproued; one is, to execute vnperfectly by not bringing your action to end, and then
+<pb n="118" facs="tcp:171782:64"/>you ſhall not with pro<g ref="char:EOLhyphen"/>fit finiſh the oportu<g ref="char:EOLhyphen"/>nity you tooke hold of; The other is, that oftentimes an occaſi<g ref="char:EOLhyphen"/>on well taken and well executed engender<g ref="char:EOLhyphen"/>eth another occaſion which is better; And he that either knoweth not this ſecond, or hath no iudgment of it, or taketh no hold of it, defraudeth the pub<g ref="char:EOLhyphen"/>like
+<pb n="119" facs="tcp:171782:64"/>intereſt of a good ſeruice, and himſelfe of great glory.</p>
+            <p>The laſt and chiefeſt Aduertiſement, which I haue to giue your Lordſhip, is this; That when you ſhall come to any townes, or coun<g ref="char:EOLhyphen"/>tries, either of friends or enemies, where Armes and violence ſhall haue ſupreme au<g ref="char:EOLhyphen"/>thority, for the reue<g ref="char:EOLhyphen"/>rence
+<pb n="120" facs="tcp:171782:65"/>of God take care that your people ab<g ref="char:EOLhyphen"/>ſtaine from Churches and Monaſteries; that they haue great re<g ref="char:EOLhyphen"/>ſpect to Eccleſiaſticall Perſons; and that they lay no hands vpon ſa<g ref="char:EOLhyphen"/>cred things. In all wars it muſt needs be a great fault not to doe ſo; much more in this, wherein the cauſe of religion is handled,
+<pb n="121" facs="tcp:171782:65"/>and the Iuſtice of the Catholique King. And this to doe beſeemeth you farre more then a<g ref="char:EOLhyphen"/>ny other, becauſe you are a ſubject of the Ho<g ref="char:EOLhyphen"/>ly Church, and of an houſe that hath many Cardinalls and Pre<g ref="char:EOLhyphen"/>lates; and becauſe you haue not only deſer<g ref="char:EOLhyphen"/>ved well of the <hi>See</hi> A<g ref="char:EOLhyphen"/>poſtolique, but alſo you haue receiued and
+<pb n="122" facs="tcp:171782:66"/>acknowledged many benefits and honours for the ſame.</p>
+            <p>
+               <hi>The Lord God bleſſe you, and grant vnto you ſo much of his grace, as you ſhall feare and honour him, and ſhew it in your Actions.</hi>
+            </p>
+            <closer>Amen</closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:171782:66"/>
+            <head>ERRATA</head>
+            <p>Page 15. line 7. in the warre read in that warre p. 22. l. 9. avoyded r. anoyed p. 49. l. 5. keepe meane r. keepe a meane p. 66. l. 12. breed a great r. breed great p. 80. l. 5. Pope &amp; his fellowes r. Pope &amp; his followers p. 93. l. 1. although r. as though p. 97. l. 11. deſtruction r. diſtraction.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
